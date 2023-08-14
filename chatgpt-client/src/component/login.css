@@ -1,0 +1,31 @@
+.main-frame{
+    text-align: center; 
+    top:50%;
+    transform: translate(0,50%);
+}
+#headp{
+    font-size: x-large;
+}
+.pass{
+    padding-top: 20px;
+}
+input{
+    width:300px;
+    height: 35px;
+    border-radius: 60px;
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+}
+button{
+    width:300px;
+    height: 35px;
+    border-radius: 60px;
+    background-color: #A9A9A9;
+    color: aliceblue;
+    font-size: 20px;
+     border:none;
+}
+.sub{
+    padding-top: 25px;
+}
